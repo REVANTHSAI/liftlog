@@ -154,6 +154,13 @@ Because Lift Log is a static HTML/CSS/JavaScript application, it can be hosted u
 
 Lift Log is designed to provide a simple, fast, and distraction-free way to follow structured workout programs while maintaining a history of strength progression.
 
+> [!WARNING]
+> ## AI-Generated & Personal-Use Project
+>
+> This entire project was **completely AI-generated** and was created specifically to cater to my **personal workout-tracking use case**.
+>
+> The code has not been developed as a production-ready application or extensively reviewed for security, scalability, or reliability. If you choose to use, modify, or deploy this project, please review and test the code carefully for your own requirements.
+
 ## 📄 License
 
 This project is licensed under the **MIT License**.
